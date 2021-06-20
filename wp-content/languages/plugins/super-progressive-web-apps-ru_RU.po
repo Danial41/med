@@ -1,0 +1,299 @@
+# Translation of Plugins - Super Progressive Web Apps - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Super Progressive Web Apps - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-08-21 17:11:44+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Super Progressive Web Apps - Development (trunk)\n"
+
+#: admin/admin-ui-render-settings.php:230
+msgid "Please enable AMP support for Page in <a href=\"%s\">Theme Settings > Theme Panel</a> > AMP > Post Type Support."
+msgstr "Включите поддержку AMP для страницы в <a href=\"%s\"> Настройки темы> Тематическая панель </a>> AMP> Поддержка типа записей."
+
+#: admin/admin-ui-render-settings.php:106
+#: admin/admin-ui-render-settings.php:129
+msgid "Choose Icon"
+msgstr "Выберите иконку"
+
+#: 3rd-party/onesignal.php:232
+msgid "<strong>SuperPWA</strong> is not compatible with OneSignal on multisites yet. Disable one of these plugins until the compatibility is available.<br>Please refer to the <a href=\"%s\" target=\"_blank\">OneSignal integration documentation</a> for more info. "
+msgstr "<strong>SuperPWA</strong> не совместим с OneSignal для мультисайтов пока. Отключите один из этих двух плагинов пока не будет налажена совместимость<br>За дополнительной информацией обратитесь к <a href=\"%s\" target=\"_blank\">документации по интеграции OneSignal</a>. "
+
+#. Plugin URI of the plugin
+msgid "https://superpwa.com/?utm_source=superpwa-plugin&utm_medium=plugin-uri"
+msgstr "https://superpwa.com/?utm_source=superpwa-plugin&utm_medium=plugin-uri"
+
+#: admin/basic-setup.php:128 admin/basic-setup.php:162
+msgid "<strong>SuperPWA</strong>: Successfully updated to version %s. Thank you! <a href=\"%s\" target=\"_blank\">Discover new features and read the story &rarr;</a>"
+msgstr "<strong>SuperPWA</strong>: Успешно обновлен до версии %s. Спасибо! <a href=\"%s\" target=\"_blank\">Откройте для себя новые возможности и прочитайте историю &rarr;</a>"
+
+#: admin/admin-ui-render-addons.php:174
+msgid "<strong>Add-On activated: %s.</strong> <a href=\"%s\"%s>%s</a>"
+msgstr "<strong>Дополнение активировано: %s.</strong> <a href=\"%s\"%s>%s</a>"
+
+#: admin/admin-ui-render-addons.php:77
+msgid "More Details &rarr;"
+msgstr "Больше деталей &rarr;"
+
+#: admin/admin-ui-render-addons.php:55 admin/admin-ui-render-addons.php:89
+#: admin/admin-ui-render-addons.php:101 admin/admin-ui-render-addons.php:113
+#: admin/admin-ui-render-addons.php:125
+msgid "Customize Settings &rarr;"
+msgstr "Настройка параметров &rarr;"
+
+#: admin/admin-ui-render-addons.php:61
+msgid "Set the Application Icon and Splash Screen Icon as Apple Touch Icons for compatibility with iOS devices."
+msgstr "Установите иконку приложения и иконку заставки как Apple Touch иконки для совместимости с iOS устройствами."
+
+#: admin/admin-ui-render-addons.php:450
+msgid "Install"
+msgstr "Установить"
+
+#: admin/admin-ui-render-addons.php:438
+msgid "Activate"
+msgstr "Активировать"
+
+#: admin/admin-ui-render-addons.php:300
+msgid "Subscribe"
+msgstr "Подписаться"
+
+#: admin/admin-ui-render-addons.php:250
+msgid "More Details"
+msgstr "Детали"
+
+#: admin/admin-ui-render-addons.php:236 admin/admin-ui-render-addons.php:442
+msgid "Deactivate"
+msgstr "Деактивировать"
+
+#: admin/admin-ui-render-settings.php:512 addons/utm-tracking.php:360
+#: addons/caching-strategies.php:230
+msgid "Settings saved."
+msgstr "Настройки сохранены."
+
+#: admin/admin-ui-render-addons.php:298
+msgid "Enter your email"
+msgstr "Введите ваш емейл"
+
+#: admin/admin-ui-render-addons.php:286
+msgid "SuperPWA Newsletter"
+msgstr "Рассылка новостей SuperPWA"
+
+#: admin/admin-ui-render-addons.php:250
+msgid "More information about %s"
+msgstr "Больше информации про %s"
+
+#: admin/admin-ui-render-addons.php:196
+msgid "Add-Ons extend the functionality of SuperPWA."
+msgstr "Дополнения расширяют функциональность SuperPWA."
+
+#: admin/admin-ui-render-addons.php:182
+msgid "Add-On deactivated"
+msgstr "Дополнение деактивировано"
+
+#: addons/utm-tracking.php:181
+msgid "Campaign Content"
+msgstr "Содержимое кампании"
+
+#: addons/utm-tracking.php:172
+msgid "Campaign Term"
+msgstr "Срок действия кампании"
+
+#: addons/utm-tracking.php:163
+msgid "Campaign Name"
+msgstr "Название компании"
+
+#: addons/utm-tracking.php:145
+msgid "Campaign Source"
+msgstr "Источник компании"
+
+#: addons/utm-tracking.php:136
+msgid "Current Start URL"
+msgstr "Текущий стартовый URL"
+
+#: admin/admin-ui-render-addons.php:49 admin/admin-ui-setup.php:38
+#: addons/utm-tracking.php:371
+msgid "UTM Tracking"
+msgstr "UTM отслеживание"
+
+#: admin/admin-ui-render-addons.php:302
+msgid "we'll share our <code>root</code> password before we share your email with anyone else."
+msgstr "мы скорее поделимся с посторонними своим <code>root</code> паролем, чем вашим email."
+
+#: addons/utm-tracking.php:154
+msgid "Campaign Medium"
+msgstr "Медиум кампании (Campaign Medium)"
+
+#: admin/admin-ui-render-addons.php:50
+msgid "Track visits from your app by adding UTM tracking parameters to the Start Page URL."
+msgstr "Отслеживайте посещения из вашего приложения, добавив параметры UTM метки к URL стартовой страницы."
+
+#: addons/utm-tracking.php:224
+msgid "This add-on automatically adds UTM campaign parameters to the <code>Start Page</code> URL in your <a href=\"%s\" target=\"_blank\">manifest</a>. This will help you identify visitors coming specifically from your app. <a href=\"%s\" target=\"_blank\">Read more</a> about UTM Tracking."
+msgstr "Эта надстройка (add-on) автоматически добавляет UTM параметры кампании к URL <code>Стартовой страницы</code> в вашем <a href=\"%s\" target=\"_blank\">манифесте</a>. Это позволит вам определять посетителей приходящих непосредственно из приложения. <a href=\"%s\" target=\"_blank\">Читать далее</a> об UTM отслеживании."
+
+#: admin/admin-ui-setup.php:102
+msgid "Description"
+msgstr "Описание"
+
+#: admin/basic-setup.php:382
+msgid "Demo"
+msgstr "Демонстрация"
+
+#: admin/admin-ui-render-settings.php:85
+msgid "A brief description of what your app is about."
+msgstr "Краткое описание того, про что ваше приложение."
+
+#: admin/admin-ui-render-settings.php:217
+msgid "Do not check this if your start page is the homepage, the blog index, or the archives page. AMP for WordPress does not create AMP versions for these pages."
+msgstr "Не используйте это, если ваша стартовая страница представляет собой домашнюю страницу, ленту блога и страницу архивов. AMP для WordPress не создает AMP-версии этих страниц."
+
+#: admin/admin-ui-render-settings.php:287
+msgid "Portrait"
+msgstr "Портрет"
+
+#: admin/admin-ui-setup.php:138
+msgid "Theme Color"
+msgstr "Цвет темы"
+
+#: admin/admin-ui-setup.php:165
+msgid "Orientation"
+msgstr "Ориентация"
+
+#: admin/admin-ui-render-settings.php:284
+msgid "Follow Device Orientation"
+msgstr "Следовать ориентации устройства"
+
+#: admin/admin-ui-setup.php:423
+msgid "If you like SuperPWA, please <a href=\"%s\" target=\"_blank\">make a donation</a> or leave a <a href=\"%s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> rating to support continued development. Thanks a bunch!"
+msgstr "Если вам нравится SuperPWA, пожалуйста, <a href=\"%s\" target=\"_blank\">сделайте пожертвование</a> или поставьте <a href=\"%s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> оценку чтобы поддержать дальнейшую разработку. Премного благодарны!"
+
+#: admin/admin-ui-render-settings.php:296
+msgid "Set the orientation of your app on devices. When set to <code>Follow Device Orientation</code> your app will rotate as the device is rotated."
+msgstr "Устнановите ориентацию приложения на устройствах. Когда установлено <code>Следовать ориентации устройства</code> ваше приложение будет адаптироваться к повороту устройства."
+
+#: admin/admin-ui-render-settings.php:290
+msgid "Landscape"
+msgstr "Альбом"
+
+#: admin/admin-ui-render-settings.php:173
+msgid "Theme color is used on supported devices to tint the UI elements of the browser and app switcher. When in doubt, use the same color as <code>Background Color</code>."
+msgstr "Цвет темы используется на устройствах, поддерживающих эту опцию, чтобы окрасить UI элементы браузера и переключателя приложения.Если сомневаетесь, используйте тот же цвет, что и для <code>Фоновый цвет</code>."
+
+#: admin/admin-ui-setup.php:120
+msgid "Splash Screen Icon"
+msgstr "Иконка заставки (Splash Screen)"
+
+#: admin/admin-ui-render-settings.php:133
+msgid "This icon will be displayed on the splash screen of your app on supported devices. Must be a <code>PNG</code> image exactly <code>512x512</code> in size."
+msgstr ""
+"Эта иконка будет показана на экране заставки вашего приложения на поддерживающих эту возможность устройствах. Требуется изображение \n"
+" формата <code>PNG</code> и размером точно <code>512x512</code>."
+
+#: admin/admin-ui-render-settings.php:399
+msgid "Progressive Web Apps require that your website is served over HTTPS. Please contact your host to add a SSL certificate to your domain."
+msgstr "Для Progressive Web Apps требуется, чтобы ваш сайт был доступен по HTTPS. Обратитесь, пожалуйста, к вашему хостеру, чтобы подключить SSL сертификат к домену."
+
+#: admin/admin-ui-setup.php:183
+msgid "Status"
+msgstr "Статус"
+
+#: admin/admin-ui-setup.php:209
+msgid "HTTPS"
+msgstr "HTTPS"
+
+#: admin/admin-ui-render-settings.php:196
+msgid "&mdash; Homepage &mdash;"
+msgstr "&mdash; Домашняя страница &mdash;"
+
+#: admin/admin-ui-setup.php:147
+msgid "Start Page"
+msgstr "Стартовая страница"
+
+#: admin/admin-ui-setup.php:93
+msgid "Application Short Name"
+msgstr "Сокращенное название приложения"
+
+#: admin/admin-ui-setup.php:84
+msgid "Application Name"
+msgstr "Название приложения"
+
+#: admin/admin-ui-render-settings.php:396
+msgid "Your website is served over HTTPS."
+msgstr "Ваш вебсайт доступен по HTTPS."
+
+#: admin/admin-ui-render-settings.php:211
+msgid "Use AMP version of the start page."
+msgstr "Использовать AMP версию стартовой страницы."
+
+#: admin/admin-ui-render-settings.php:153
+msgid "Background color of the splash screen."
+msgstr "Цвет фона экрана заставки."
+
+#: admin/admin-ui-render-settings.php:203
+msgid "Specify the page to load when the application is launched from a device. Current start page is <code>%s</code>"
+msgstr "Укажите загружаемую страницу при запуске приложения на устройстве. Текущая стартовая страница - <code>%s</code>"
+
+#: admin/admin-ui-render-settings.php:264
+msgid "Offline page is displayed when the device is offline and the requested page is not already cached. Current offline page is <code>%s</code>"
+msgstr "Страница офлайн отображается когда устройство находится офлайн, а запрошенная страница ещё не в кэше. Текущая страница офлайн - <code>%s</code>"
+
+#: admin/admin-ui-setup.php:200
+msgid "Service Worker"
+msgstr "Service Worker"
+
+#: admin/admin-ui-render-settings.php:257
+msgid "&mdash; Default &mdash;"
+msgstr "&mdash; По умолчанию &mdash;"
+
+#: admin/admin-ui-setup.php:156
+msgid "Offline Page"
+msgstr "Страница офлайн"
+
+#: admin/admin-ui-render-addons.php:241 admin/admin-ui-setup.php:31
+#: admin/basic-setup.php:365
+msgid "Settings"
+msgstr "Параметры"
+
+#: admin/admin-ui-render-settings.php:542
+#: admin/admin-ui-render-settings.php:554 addons/utm-tracking.php:382
+#: addons/caching-strategies.php:252 addons/apple-touch-icons.php:298
+msgid "Save Settings"
+msgstr "Сохранить настройки"
+
+#: admin/admin-ui-setup.php:129 addons/apple-touch-icons.php:135
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: admin/admin-ui-setup.php:111
+msgid "Application Icon"
+msgstr "Иконка приложения"
+
+#: admin/admin-ui-setup.php:191
+msgid "Manifest"
+msgstr "Манифест"
+
+#. Author of the plugin
+#: admin/admin-ui-setup.php:28
+msgid "SuperPWA"
+msgstr "SuperPWA"
+
+#. Plugin Name of the plugin
+#: admin/admin-ui-setup.php:28 admin/admin-ui-setup.php:31
+#: admin/admin-ui-setup.php:34 admin/admin-ui-setup.php:38
+#: admin/admin-ui-setup.php:43 admin/admin-ui-setup.php:48
+#: admin/admin-ui-setup.php:54
+msgid "Super Progressive Web Apps"
+msgstr "Super Progressive Web Apps"
+
+#. Description of the plugin
+msgid "Convert your WordPress website into a Progressive Web App"
+msgstr "Превратите ваш сайт WordPress в прогрессивное веб-приложение Progressive Web App"
+
+#: admin/admin-ui-render-settings.php:110
+msgid "This will be the icon of your app when installed on the phone. Must be a <code>PNG</code> image exactly <code>192x192</code> in size."
+msgstr "Это будет иконка вашего приложения установленного на телефоне. Требуется <code>PNG</code> изображение размером точно <code>192x192</code>."
